@@ -1,0 +1,24 @@
+
+ Executing main thread line
+ Hello World
+ Executing spawned thread line 0
+ Executing spawned thread line 0
+ Executing main thread line 1
+ Executing main thread line 2
+ Executing main thread line 3
+ Executing main thread line 14
+ Executing main thread line 5
+ Executing main thread line 6
+ Executing main thread line
+ Executing spawned thread line 2
+ Executing spawned thread line 37
+ Executing main thread line 8
+ Executing spawned thread line 4
+ Executing spawned thread line
+ Executing main thread line 9
+ Murder for a jar of red rum5
+ Executing spawned thread line 6
+ Executing spawned thread line 7
+ Executing spawned thread line 8
+ Executing spawned thread line 9
+ Murder for a jar of red rum
