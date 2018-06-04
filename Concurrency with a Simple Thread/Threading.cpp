@@ -8,8 +8,6 @@
 #include <iostream>
 #include <pthread.h>
 
-pthread_mutex_t lock;
-
 void* Hello(void*)
 {
 	std::cout<<"\n Hello World";
@@ -25,8 +23,6 @@ void* Hello(void*)
 int main()
 {
 	pthread_t thread;
-
-	lock = PTHREAD_DEFAULT_MUTEX_INITIALIZER;
 
 	pthread_create(&thread, NULL, Hello, NULL);
 
