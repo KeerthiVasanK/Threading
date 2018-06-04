@@ -1,0 +1,30 @@
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Sith Empire razes one base; remaining resistance bases: 0
+ Resistance is building bases; available resistance bases: 1
+ Resistance is building bases; available resistance bases: 2
+ Resistance is building bases; available resistance bases: 3
+
+ Luke Skywalker has been found; active resistance bases: 3
+
